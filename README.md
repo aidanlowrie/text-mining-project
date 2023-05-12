@@ -18,3 +18,6 @@ The aim of this project is to create a network that provides a visualisation of 
 5. Knowledge Graph? (Need to look into this still). 
 - https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk#BERT:-Bidirectional-Encoder-Representations-from-Transformers
 - (I have linked to this because I think it might be a useful resource for us to look at.)
+
+Keyword extraction keybert --> plug in biobert to keybert.
+--> PubMedBert?
