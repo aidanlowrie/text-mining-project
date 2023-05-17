@@ -21,3 +21,10 @@ The aim of this project is to create a network that provides a visualisation of 
 
 Keyword extraction keybert --> plug in biobert to keybert.
 --> PubMedBert?
+6. Extracting Relations
+- The file relation.py has methods to extract relations(that file will be updated soon)
+- The main thing it does is iterating over a list of sentences and finding the subject object and the verb and storing it in a pandas dataframe.
+- In the end, we want to have a visualised data that shows the important connections that our corpus contains.
+- Depending on our end product, we might be able to find important connections in the genetics with qualitative analysis using the clustered data.
+- Word similarities, relations, and keywords in the corpus will play a big role in this task.
+- Although up to now we've limited ourselves with genetics articles, the methods we provide are generic.
