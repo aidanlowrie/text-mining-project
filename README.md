@@ -27,4 +27,5 @@ Keyword extraction keybert --> plug in biobert to keybert.
 - In the end, we want to have a visualised data that shows the important connections that our corpus contains.
 - Depending on our end product, we might be able to find important connections in genetics with some observation using the clustered data.
 - Word similarities, relations, and keywords in the corpus will play a big role in this task.
+- The relations between similar words and dissimilar words provide different data. And, they should be treated differently.
 - Although up to now we've limited ourselves with genetics articles, the methods we provide are generic.
