@@ -1,0 +1,597 @@
+mesenchymal,subclass of,precursor cells
+pericyte,subclass of,periosteal
+adipocytic,opposite of,osteoblastic differentiation
+osteoblastic differentiation,opposite of,adipocytic
+osteogenic differentiation,opposite of,adipogenic phenotype
+intramuscular xenograft animal model,subclass of,in vivo xenograft animal model
+cytoskeletal morphology,facet of,differentiation potential
+Rac1,subject has role,inhibitor
+TIAM1,subject has role,inhibitor
+calcified vessel,different from,diseased area
+diseased area,different from,calcified vessel
+osteogenic,opposite of,adipogenic
+adipogenic,opposite of,osteogenic
+dilated cardiomyopathy,has cause,genetic mutations
+arginine-serine-rich,instance of,domain
+RS domain deletion,instance of,mouse model
+DCM,has cause,mis-splicing
+mis-splicing,has effect,DCM
+RBM20,part of,sarcoplasm
+sarcoplasm,has part,RBM20
+sarcoplasm,has part,RBM20
+sarcoplasm,has part,RBM20
+RBM20,part of,sarcoplasm
+RBM20,part of,sarcoplasm
+RNA recognition motif,part of,RBM20
+RNA recognition motif,part of,RBM20
+granule assembly,subclass of,nucleocytoplasmic transport
+RS domain,subclass of,nuclear localization signal
+RS domain,part of,nucleocytoplasmic transport
+DCM,has cause,NLS mutations
+NLS mutations,has effect,DCM
+early onset colorectal cancer,subclass of,EO-CRC
+altered genetic background,has effect,Lifestyle factors
+exon,part of,DNA
+HNF1AA98V,subject has role,DNA binding
+Cas9,part of,CRISPR/Cas9
+chow,has part,HFD
+chow,has part,HSD
+HFD,subclass of,chow
+HSD,subclass of,chow
+HNF1A,instance of,gene
+β-catenin,instance of,protein
+promoter,part of,locus
+β-catenin,part of,colonic polyps
+Cdx2,part of,colonic polyps
+Metabolic scaling,instance of,inverse correlation
+mathematical modeling,subclass of,computational modeling
+metabolic processes,has part,body size
+in vitro,different from,in vivo
+in vivo,different from,in vitro
+mitochondrial,subclass of,metabolic processes
+tissues,has parts of the class,cellular compartments
+in vitro,different from,in vivo
+in vivo,different from,in vitro
+enzyme activity,part of,metabolism
+deep boosted molecular dynamics,subclass of,molecular dynamics
+Bayesian,studies,neural network
+neural network,studied by,Bayesian
+alanine dipeptide,instance of,protein
+molecular dynamics,subclass of,simulations
+folding,followed by,unfolding
+GCAA,subclass of,RNAs
+GAAA,subclass of,RNAs
+UUCG,subclass of,RNAs
+deep learning,studies,neural network
+neural network,studied by,deep learning
+OpenMM,developer,MiaoLab20
+masting,subclass of,seed crops
+ripple effect,facet of,food webs
+variability from year to year,facet of,masting
+heritability,facet of,phenotypic
+periodicity,part of,frequency domain
+frequency domain,has part,periodicity
+Quercus robur,parent taxon,Quercus pubescens
+data,studied by,analysis
+analysis,studies,data
+High content screening,subclass of,drug screening
+multi-well plates,subclass of,culture platform
+HCS,subclass of,drug screening
+droplet,subclass of,microfluidic devices
+microarray,subclass of,microfluidic devices
+drug discovery,part of,pharmaceutical industry
+HCS,use,drug discovery
+HCS,use,drug discovery
+stem cell,subclass of,biological technologies
+microfluidic,part of,HCS
+surgical resection,medical condition treated,solid tumor
+AHB Gel,instance of,hydrogel
+polyacrylamide,subclass of,hydrogel
+TME,has part,ATP
+AHB Gel,has effect,fluorescence
+tumor,part of,tissue
+tissue,has parts of the class,tumor
+AHB Gel,subject has role,storage stability
+AHB Gel,instance of,hydrogel
+tumor,has part,tissues
+tissues,part of,tumor
+copyright,instance of,protected
+All rights reserved,facet of,copyright
+medicine,part of,biology
+carrier,subclass of,delivery
+amphiphile,subclass of,small-molecule
+dimeric,subclass of,architecture
+trimeric,subclass of,architecture
+Combination therapy,opposite of,monotherapy
+monotherapy,opposite of,Combination therapy
+combination cancer chemotherapy,subclass of,drug
+micronutrient,use,Combination therapy
+Selenium,instance of,micronutrient
+HepG2,instance of,cell line
+normoxic,opposite of,hypoxic
+hypoxic,opposite of,normoxic
+columella cells,part of,shoot endodermal
+GATA,part of,Arabidopsis thaliana
+GATA,part of,Arabidopsis thaliana
+GATA,part of,Arabidopsis thaliana
+GATA,part of,Arabidopsis thaliana
+shoot,has part,hypocotyl
+hypocotyl,part of,shoot
+RNA-seq,subclass of,microscopy
+transmission electron microscopy,studies,development
+development,studied by,transmission electron microscopy
+GATA,instance of,genotypes
+starch granule initiation,part of,starch synthesis
+skotomorphogenesis,followed by,photomorphogenesis
+photomorphogenesis,follows,skotomorphogenesis
+Manganese,instance of,micronutrient
+Mn toxicity,has cause,Mn
+pH,facet of,acid
+Mn uptake,has part,Mn
+cbl1/9,instance of,mutants
+cipk23,instance of,mutants
+CIPK23,encodes,NRAMP1
+calcineurin B-like,subclass of,protein
+chlorophyll,has part,Mn
+Mn transporter,has part,NRAMP1
+Mn transporter,has part,Ser20
+Mn transporter,has part,22
+NRAMP1,part of,Mn transporter
+Ser20,part of,Mn transporter
+22,part of,Mn transporter
+CBL1,part of,CIPK23
+CIPK23,has part,CBL1
+CIPK23,has part,NRAMP1
+NRAMP1,part of,CIPK23
+Phytochromes,subclass of,photoreceptor
+phytochrome,subclass of,gene
+mosses,has parts of the class,phytochrome
+ferns,has parts of the class,phytochrome
+PHY1/3,parent taxon,phytochromes
+PHY2/4,parent taxon,phytochromes
+PHY5,parent taxon,phytochromes
+Cas9,part of,CRISPR/Cas9-generated
+phytochrome,instance of,clade
+PHY1,parent taxon,phytochromes
+PHY1,parent taxon,phytochromes
+PHY5,parent taxon,phytochromes
+PHY5,parent taxon,phytochromes
+PHY2/4,parent taxon,phytochromes
+PHY1/3,parent taxon,phytochromes
+PHY2/4,parent taxon,phytochromes
+far-red,subclass of,phytochromes
+Plant,has part,secondary metabolism
+secondary metabolism,part of,Plant
+anthocyanin,subclass of,flavonoid
+sucrose,subject has role,biosynthesis
+TTG1,subclass of,WD40 repeat protein
+energy-intensive,subclass of,biosynthesis
+SnRK1,subclass of,protein kinase
+SnRK1,part of,Arabidopsis
+MYB75,subclass of,transcription factor
+PAP1,subclass of,transcription factor
+MBW complex,subclass of,protein
+anthocyanin,has part,carbon
+anxiety,subclass of,stress-related mood disorder
+gestational hypertension,subclass of,adverse pregnancy outcomes
+preeclampsia,subclass of,adverse pregnancy outcomes
+stress,has effect,related disorders
+related disorders,has cause,stress
+chronic unpredictable stress,subclass of,pre-pregnancy stress
+pregnancy,has effect,postpartum
+postpartum,follows,pregnancy
+pregnancy,has effect,postpartum
+postpartum,follows,pregnancy
+mid,followed by,late pregnancy
+postpartum period,facet of,vascular health
+postpartum,follows,pregnancy
+Dam,located on terrain feature,river
+nucellar,subclass of,gametophyte
+Brachiaria,endemic to,Brazil
+megaspore mother cell,subclass of,nucellar cells
+clone,subclass of,embryo
+apomictic,subclass of,ovaries
+apomictic,subclass of,ovaries
+BbrizExoV,instance of,gene
+Sequence analysis,use,signal prediction
+chloroplast,part of,nucleus
+monocot,subclass of,sequences
+onion,subclass of,epidermal cells
+epidermal cells,has part,nucleus
+Arabidopsis thaliana,parent taxon,dicot
+AlphaFold 2,use,holo structure
+BbrizExoV,subclass of,enzyme
+nucelar cells,subclass of,gametophyte
+homology,facet of,protein
+self-image,facet of,humans
+evolutionary,has part,foundations
+foundations,part of,evolutionary
+sensitivity,facet of,social comparison
+non-human primates,subclass of,primates
+corvids,parent taxon,primates
+co-actor,different from,co-actor
+co-actor,different from,co-actor
+learning criterion,facet of,social context
+co-actor,different from,co-actor
+co-actor,different from,co-actor
+affiliation status,different from,sex
+sex,different from,affiliation status
+'weak' variant of social comparison,subclass of,human social comparison
+rice,has part,sugar
+Tonoplast sugar transporter,use,vacuolar sugar accumulation
+tonoplasts,part of,plant cells
+plant cells,has part,tonoplasts
+plant,uses,energy
+biomass,part of,crop
+OsTST1,instance of,protein
+Cas9,part of,CRISPR/Cas9
+overexpressing,opposite of,opposite effects
+opposite effects,opposite of,overexpressing
+tricarboxylic acid,part of,glycolytic pathway
+vacuole,part of,cytosol
+plant growth,has effect,development
+development,has cause,plant growth
+16S rRNA,subclass of,gene sequence
+genome,has part,G + C
+G + C,part of,genome
+Gram-negative,subclass of,bacteria
+swarming motility,subclass of,multicellular migration
+genomic,subclass of,sequences
+Illumina,product or material produced,NextSeq
+NextSeq,developer,Illumina
+in silico,subclass of,comparative investigation
+ANI,part of,genomic
+phenotypic,part of,genomic
+Phenotypic heterogeneity,subclass of,adaptive strategy
+pathogenesis,has part,factor
+catheter-associated urinary tract infection,subclass of,host-pathogen interactions
+Promoters,facet of,gene expression
+promoter,part of,gene
+gene,has part,promoter
+WRAB18,instance of,protein family
+late embryogenesis abundant,instance of,protein family
+promoter,part of,biological
+Zhengyin 1,parent taxon,Triticum aestivum
+Plant Promoter Database,use,bioinformatics
+promoter,part of,promoter sequence
+promoter sequence,has part,promoter
+promoter,part of,gene expression
+WRAB18,instance of,promoter sequence
+mechanism of action,part of,gene
+colorectal cancer,different from,invasive CRC
+invasive CRC,different from,colorectal cancer
+immunogenic microsatellite instable-high,subclass of,SSL
+mesenchymal microsatellite stable,subclass of,SSL
+post-colonoscopy,subclass of,interval cancer
+polyps,studied by,biology
+biology,studies,polyps
+dysplastic,studied by,histological
+epithelium,subclass of,cell
+Mouse serrated tumor model,subclass of,disease progression
+pre-malignant,different from,non-malignant-SSLs
+non-malignant-SSLs,different from,pre-malignant
+biology,studies,SSLDs
+SSLDs,studied by,biology
+SSLD,use,clinical implications
+Monensin,subject has role,antibiotic
+colorectal cancer,subclass of,cancer
+monensin,subject has role,anti-inflammatory
+IRF3,instance of,gene
+TLR4,instance of,protein
+Interferon Regulatory Factor 3,instance of,protein
+type 1 interferon,has part,TLR4
+induced pluripotent stem cell,subclass of,Stem cell
+embryonic stem cell,subclass of,Stem cell
+hematopoietic stem and progenitor cell,subclass of,Stem cell
+CRISPR,use,gene editing
+prime editor,subclass of,base editor
+DNA,has part,bases
+bases,part of,DNA
+stem cell-based models,studies,stem cell
+malaria-endemic regions,facet of,Malaria
+malaria parasites,studied by,malaria biology
+malaria biology,studies,malaria parasites
+hepatocyte,part of,hosts
+erythrocytic,subclass of,Symptomatic infection
+innate immunity,opposite of,adaptive immunity
+adaptive immunity,opposite of,innate immunity
+immune destruction,facet of,host's
+immune system,has part,host immune evasion mechanisms
+host immune evasion mechanisms,part of,immune system
+reprogram,subclass of,reprogram
+erythrocyte,subclass of,endothelial
+malaria biology,facet of,eradicate the notorious disease
+eradicate the notorious disease,facet of,malaria biology
+ERBB,subclass of,tyrosine kinase receptor
+mammary gland,studied by,histomorphological
+histomorphological,studies,mammary gland
+companion animal,subclass of,livestock
+biology,studies,species
+species,studied by,biology
+mastitis,has cause,cancer
+structural,has part,functional
+functional,part of,structural
+conformation,part of,composition
+N-glycan,subclass of,carbohydrate
+N-glycan,subclass of,glycoprotein
+orthodontic,studies,teeth
+teeth,studied by,orthodontic
+gums,part of,teeth
+Removable,subclass of,retainers
+Retainers,subclass of,material
+interproximal reduction,subclass of,Adjunctive procedure
+2004,point in time,2004
+orthodontic,uses,braces
+braces,use,orthodontic
+MEDLINE,part of,Cochrane Oral Health Trials Register
+braces,use,orthodontic treatment
+alignment,different from,aligners
+aligners,different from,alignment
+risk of bias,facet of,extracted data
+retainer failure,subclass of,tooth position
+teeth,connects with,gums
+gums,connects with,teeth
+gingival,has effect,bleeding
+95% confidence intervals,facet of,hazard ratio
+meta-analyses,facet of,results
+Little's Irregularity Index,subclass of,Crookedness of anterior teeth
+studies,has part,participants
+participants,part of,studies
+removable,opposite of,fixed retainers
+fixed retainers,opposite of,removable
+studies,has part,comparison
+comparison,part of,studies
+high risk of bias,opposite of,low risk
+low risk,opposite of,high risk of bias
+12-month follow-up,number of participants,12
+low,subclass of,certainty
+comparisons,has cause,bias
+bias,has effect,comparisons
+Removable versus fixed retainers,number of participants,56
+Gingival Index,facet of,periodontal health
+Removable (full-time) versus fixed,different from,retainers
+Removable (full-time) versus fixed,different from,retainers
+fixed,different from,Removable (full-time) versus fixed
+fixed,subclass of,retainers
+fixed,subclass of,retainers
+retainers,different from,Removable (full-time) versus fixed
+retainers,different from,Removable (full-time) versus fixed
+gingival bleeding,has cause,retainer failure
+retainer failure,has effect,gingival bleeding
+retainers,medical condition treated,caries
+caries,drug used for treatment,retainers
+Computer-aided design,different from,computer-aided manufacturing
+computer-aided manufacturing,different from,Computer-aided design
+RR,part of,CI
+fibre-reinforced composite,different from,Fibre-reinforced composite versus conventional multistrand/spiral wire
+Fibre-reinforced composite versus conventional multistrand/spiral wire,different from,fibre-reinforced composite
+fibre-reinforced,use,aesthetics
+bleeding on probing,subclass of,gingival inflammation
+Clear plastic versus Hawley,subclass of,removable retainers
+1 study,number of participants,111 participants
+1 study,number of participants,86 participants
+Part-time versus full-time wear of Hawley,number of participants,52 participants
+low certainty,subclass of,evidence
+gum disease,subclass of,tooth decay
+fase de retención,has part,posición inicial
+posición inicial,part of,fase de retención
+retenedores fijos,different from,removibles
+removibles,different from,retenedores fijos
+tiempo completo,part of,parcial
+parcial,has part,tiempo completo
+modo de fabricación,subclass of,material
+reducción interproximal,subclass of,remodelando los dientes
+Esta revisión,publication date,2004
+retenedores,part of,tratamiento
+tratamiento,has part,retenedores
+tratamiento,has part,aparatos de ortodoncia
+aparatos de ortodoncia,part of,tratamiento
+MEDLINE,owned by,Cochrane Oral Health
+recaída,has cause,tratamiento
+tratamiento,has effect,recaída
+alineadores,subclass of,estudios
+estudios elegibles,studies,riesgo de sesgo
+riesgo de sesgo,studied by,estudios elegibles
+roto,subclass of,retenedor
+cociente de riesgos instantáneos,instance of,intervalos de confianza
+metanálisis,different from,estudios similares
+estudios similares,different from,metanálisis
+Little's Irregularity Index,instance of,notificación
+Estudios,has part,participantes
+participantes,part of,estudios
+materiales adhesivos,different from,tipos de retenedores removibles
+materiales adhesivos,different from,tipos de retenedores removibles
+Cuatro estudios,is a list of,estudio
+alto riesgo de sesgo,opposite of,riesgo bajo
+riesgo bajo,opposite of,alto riesgo de sesgo
+El centro de atención de esta revisión,part of,12 meses
+12 meses,has part,El centro de atención de esta revisión
+La evidencia es de certeza baja a muy baja,has part,evidencia es de certeza baja a muy baja
+evidencia es de certeza baja a muy baja,part of,La evidencia es de certeza baja a muy baja
+muy baja,has part,La evidencia es de certeza baja a muy baja
+estudio con alto riesgo de sesgo,has part,estudio midieron los desenlaces
+estudio midieron los desenlaces,part of,estudio con alto riesgo de sesgo
+retenedores de plástico transparente,different from,retenedores fijos de múltiples barras
+retenedores fijos de múltiples barras,different from,retenedores de plástico transparente
+Los retenedores removibles tuvieron más probabilidades de causar molestias,has part,menos fracaso del retenedor
+Los retenedores removibles tuvieron más probabilidades de causar molestias,has part,mejor salud periodontal
+menos fracaso del retenedor,part of,Los retenedores removibles tuvieron más probabilidades de causar molestias
+Removible (a tiempo completo) versus fijo,different from,retenedores fijos
+retenedores fijos,different from,Removible (a tiempo completo) versus fijo
+mayor riesgo de fracaso del retenedor,subclass of,salud periodontal
+retenedores,has effect,caries
+caries,has cause,retenedores
+Diferentes tipos de retenedores fijos De nitinol con diseño asistido por ordenador/fabricación asistida por ordenador,different from,Diferentes tipos de retenedores fijos De nitinol con diseño asistido por ordenador/fabricación asistida por ordenador
+Retenedores en la salud periodontal,different from,Retenedores en la supervivencia del retenedor
+Retenedores en la supervivencia del retenedor,different from,Retenedores en la salud periodontal
+alambre de múltiples barras/en espiral convencional,different from,Composite reforzado con fibra versus alambre de múltiples barras/en espiral convencional
+Composite reforzado con fibra versus alambre de múltiples barras/en espiral convencional,different from,alambre de múltiples barras/en espiral convencional
+escala visual analógica,has part,tasas similares de supervivencia del retenedor
+tasas similares de supervivencia del retenedor,part of,escala visual analógica
+sangrado al sondaje,subclass of,inflamación gingival
+meses a tiempo completo,opposite of,meses a tiempo parcial
+meses a tiempo parcial,opposite of,meses a tiempo completo
+riesgo de fracaso,different from,cómodos a los seis meses
+cómodos a los seis meses,different from,riesgo de fracaso
+Hawley a tiempo parcial versus a tiempo completo,number of participants,52
+certeza baja a muy baja,part of,método de retención en detrimento de otro
+método de retención en detrimento de otro,has part,certeza baja a muy baja
+caries,subclass of,enfermedades de las encías
+Phosphorylation,subclass of,post-translation modification
+phosphosite,has part,phosphorylation
+proteomic,subclass of,peptide
+proteome,subclass of,peptidome
+wild-type,subclass of,phosphosite
+phosphomimetic,subclass of,phosphosite
+domains,part of,protein
+Affinity measurement,facet of,phospho-modulation
+hepatoma-upregulated protein,subclass of,spindle protein
+phospho-dependency,subclass of,molecular basis
+ProP-PD,subclass of,phosphomimetic
+doxorubicin,subclass of,Anthracycline
+anthracycline-induced cardiotoxicity,has effect,cardiomyocyte
+Insulin-like growth factor binding protein,part of,IGFBP family member
+IGFBP family member,has part,Insulin-like growth factor binding protein
+Dox,has part,Igfbp-3
+pluripotent,subclass of,stem cell
+cardiomyocyte,has part,Igfbp-3
+DNA double-strand break,subclass of,DNA damage
+Igfbp-3,has effect,AIC
+AIC,has cause,Igfbp-3
+intestinal crypt,part of,intestinal homeostasis
+intestinal homeostasis,has part,intestinal crypt
+intestinal,has part,microbial
+microbial,part of,intestinal
+VDR signaling,part of,immune
+myeloid-specific VDR knockout,facet of,first-generation adenovirus
+E1A,instance of,activity
+dl70-3,parent taxon,adenovirus
+CDK4/6i,subclass of,cyclin-dependent kinase
+promoter,has part,E2
+promoter,has part,E2
+E2-early promoter,part of,E2-early promoter activity
+E2-early promoter activity,has part,E2-early promoter
+La Paz Bay,part of,Gulf of California
+whistle contours,instance of,ecotypes
+oceanic dolphin,opposite of,coastal dolphin
+coastal dolphin,opposite of,oceanic dolphin
+acoustic,studied by,acoustic monitoring
+acoustic monitoring,studies,acoustic
+phage,Gram staining,Gram-negative bacteria
+cytoplasmic membrane,part of,periplasm
+periplasm,has part,cytoplasmic membrane
+tolQ,followed by,tolR
+tolR,follows,tolQ
+CM,followed by,OM
+OM,follows,CM
+cryo-EM,uses,X-ray
+this paper,instance of,paper
+pentamer,has part,dimer
+TonB,instance of,energy
+pore,part of,periplasm
+periplasm,has part,pore
+anti-sigma factor,has effect,transcription
+virus,has part,genome
+COVID pandemic,has cause,SARS-CoV-2
+SARS-CoV-2,has effect,COVID pandemic
+Intrinsically disordered protein,instance of,family
+proteinaceous,subclass of,membrane-less organelles
+post-translational modification,subclass of,functional modulatory
+HDX,subclass of,mass spectrometry
+IDPs,has part,PTMs
+PTMs,part of,IDPs
+phospho-dependent conformational alterations,subclass of,IDPs
+ion mobility device,subclass of,mass spectrometers
+Malic acid,instance of,organic acid
+Ma locus,instance of,quantitative trait locus
+MdMa1,instance of,gene
+MdMYB21,instance of,gene
+malic acid,instance of,phenotypic
+MdMYB21,instance of,transgenic
+apple,taxonomic type,apple calli
+apple calli,parent taxon,apple
+promoter,part of,expression
+promoter region,part of,gene
+association mapping,subclass of,QTL
+Biomolecular communication,subclass of,message transmission
+sign,subclass of,communicative agency
+agency,has effect,behavior
+behavior,has cause,agency
+bioinformatic,part of,genomic
+modularity,part of,hierarchy
+communication,has part,message
+message,part of,communication
+computation,has part,information
+vocabularies,part of,entangled communication network
+entangled communication network,has part,vocabularies
+biological functions,part of,Biological systems
+robustness,facet of,economy
+modules,part of,hierarchy
+hierarchy,has part,modules
+Illumina,product or material produced,DNA sequencing
+competition,facet of,long-read sequencing
+genome,studied by,biology
+biology,studies,genome
+molecule,has part,molecular properties
+molecular properties,part of,molecule
+hybrid state,subclass of,molecules
+field features,studied by,chemistry
+chemistry,studies,field features
+single-molecule imaging,subclass of,plasmonic nanocavities
+modes,facet of,plasmonic
+theoretical methodology,has part,computational feasibility
+computational feasibility,part of,theoretical methodology
+molecule,has effect,interaction
+penicillin,subject has role,antibiotics
+selectively target and kill,subclass of,mechanisms of action
+cell wall,part of,bacteria
+exploited,subclass of,vulnerability
+precursor molecules,subclass of,complex
+antibiotics,has part,binding tightly to their membrane-bound substrates
+binding tightly to their membrane-bound substrates,part of,antibiotics
+inhibitors,subclass of,small-molecule drug discovery
+antibiotics,has cause,bacterial cell wall precursors
+bacterial cell wall precursors,has effect,antibiotics
+cell wall,part of,bacterial
+bradycardia,subclass of,hypoxemia
+respiratory,has effect,outcome
+outcome,has cause,respiratory
+bronchopulmonary dysplasia,subclass of,respiratory outcomes
+Prematurity-Related Ventilatory Control,instance of,prospective cohort study
+inpatient,different from,discharged
+discharged,different from,inpatient
+favorable,opposite of,unfavorable
+Day 7,followed by,Day 28
+Day 28,follows,Day 7
+Day 28,followed by,32w PMA
+32w PMA,follows,Day 28
+intermittent hypoxemia,has part,SpO2
+Day 7,followed by,14
+14,followed by,Day 28
+Day 28,follows,14
+Day 28,followed by,32w PMA
+32w PMA,follows,Day 28
+Intermittent hypoxemia with SpO2<80% (IH80),has effect,BPD
+BPD,has cause,Intermittent hypoxemia with SpO2<80% (IH80)
+extremely preterm infants,studied by,Physiologic
+Creative Commons,product or material produced,Attribution Non-Commercial No Derivatives License
+Attribution Non-Commercial No Derivatives License,author,Creative Commons
+small molecule,has part,protein
+Cyclic adenosine monophosphate,instance of,metabolite
+"3',5'-cAMP",instance of,protein
+"3',5'-cAMP",instance of,protein
+ligand,subclass of,protein
+"3',5'-cAMP",part of,proteomics
+ribosomal,subclass of,protein
+"3',5'-cAMP",instance of,proteins
+actin cytoskeleton,instance of,proteins
+actin,instance of,proteins
+actin,part of,actin-bundling
+actin-bundling,has part,actin
+actin2,subclass of,actin
+actin7,subclass of,actin
+"2',3'-cAMP",instance of,"3',5'-cAMP"
+"2',3'-cAMP",instance of,"3',5'-cAMP"
+"3',5'-cAMP - actin pairing",has part,"3',5'-cAMP"
+"3',5'-cAMP",part of,"3',5'-cAMP - actin pairing"
+calcium signaling,instance of,mechanisms
