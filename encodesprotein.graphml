@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="COVID pandemic"/>
+<node id="SARS CoV 2"/>
+<node id="COVID 19"/>
+<node id="NRC 03 nhCoV"/>
+<node id="XBB"/>
+<node id="Autochthonous leishmaniasis in Thailand"/>
+<node id="host response"/>
+<node id="S protein"/>
+<node id="CNS"/>
+<node id="symptom onset"/>
+<node id="spread rapidly across the globe"/>
+<node id="variants of concern"/>
+<node id="COVID 19 pandemic"/>
+<node id="cerebrum"/>
+<node id="severe acute respiratory syndrome coronavirus 2"/>
+<node id="mAb resistant virus variants"/>
+<node id="Severe Acute Respiratory Syndrome coronavirus 2"/>
+<node id="post SARS CoV 2 infection"/>
+<node id="eCOVIDs"/>
+<node id="human infections with eCOVIDs"/>
+<node id="Adolescent Idiopathic Scoliosis"/>
+<node id="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic"/>
+<node id="genome copy"/>
+<node id="GC"/>
+<node id="recent variants"/>
+<node id="Severe Acute Respiratory Syndrome CoronaVirus 2"/>
+<node id="ACE2"/>
+<node id="ongoing pandemic"/>
+<node id="MIS C"/>
+<edge source="COVID pandemic" target="SARS CoV 2"/>
+<edge source="SARS CoV 2" target="COVID 19"/>
+<edge source="SARS CoV 2" target="NRC 03 nhCoV"/>
+<edge source="SARS CoV 2" target="XBB"/>
+<edge source="SARS CoV 2" target="Autochthonous leishmaniasis in Thailand"/>
+<edge source="SARS CoV 2" target="host response"/>
+<edge source="SARS CoV 2" target="S protein"/>
+<edge source="SARS CoV 2" target="CNS"/>
+<edge source="SARS CoV 2" target="symptom onset"/>
+<edge source="SARS CoV 2" target="spread rapidly across the globe"/>
+<edge source="SARS CoV 2" target="variants of concern"/>
+<edge source="SARS CoV 2" target="COVID 19 pandemic"/>
+<edge source="SARS CoV 2" target="cerebrum"/>
+<edge source="SARS CoV 2" target="severe acute respiratory syndrome coronavirus 2"/>
+<edge source="SARS CoV 2" target="mAb resistant virus variants"/>
+<edge source="SARS CoV 2" target="Severe Acute Respiratory Syndrome coronavirus 2"/>
+<edge source="SARS CoV 2" target="post SARS CoV 2 infection"/>
+<edge source="SARS CoV 2" target="eCOVIDs"/>
+<edge source="SARS CoV 2" target="human infections with eCOVIDs"/>
+<edge source="SARS CoV 2" target="Adolescent Idiopathic Scoliosis"/>
+<edge source="SARS CoV 2" target="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic"/>
+<edge source="SARS CoV 2" target="genome copy"/>
+<edge source="SARS CoV 2" target="GC"/>
+<edge source="SARS CoV 2" target="recent variants"/>
+<edge source="SARS CoV 2" target="Severe Acute Respiratory Syndrome CoronaVirus 2"/>
+<edge source="SARS CoV 2" target="ACE2"/>
+<edge source="SARS CoV 2" target="ongoing pandemic"/>
+<edge source="SARS CoV 2" target="MIS C"/>
+</graph></graphml>
