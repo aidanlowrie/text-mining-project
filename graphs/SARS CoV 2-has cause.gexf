@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-01">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="COVID pandemic" label="COVID pandemic" />
+      <node id="SARS CoV 2" label="SARS CoV 2" />
+      <node id="COVID 19" label="COVID 19" />
+      <node id="NRC 03 nhCoV" label="NRC 03 nhCoV" />
+      <node id="XBB" label="XBB" />
+      <node id="Autochthonous leishmaniasis in Thailand" label="Autochthonous leishmaniasis in Thailand" />
+      <node id="host response" label="host response" />
+      <node id="S protein" label="S protein" />
+      <node id="CNS" label="CNS" />
+      <node id="symptom onset" label="symptom onset" />
+      <node id="spread rapidly across the globe" label="spread rapidly across the globe" />
+      <node id="variants of concern" label="variants of concern" />
+      <node id="COVID 19 pandemic" label="COVID 19 pandemic" />
+      <node id="cerebrum" label="cerebrum" />
+      <node id="severe acute respiratory syndrome coronavirus 2" label="severe acute respiratory syndrome coronavirus 2" />
+      <node id="mAb resistant virus variants" label="mAb resistant virus variants" />
+      <node id="Severe Acute Respiratory Syndrome coronavirus 2" label="Severe Acute Respiratory Syndrome coronavirus 2" />
+      <node id="post SARS CoV 2 infection" label="post SARS CoV 2 infection" />
+      <node id="eCOVIDs" label="eCOVIDs" />
+      <node id="human infections with eCOVIDs" label="human infections with eCOVIDs" />
+      <node id="Adolescent Idiopathic Scoliosis" label="Adolescent Idiopathic Scoliosis" />
+      <node id="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" label="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" />
+      <node id="genome copy" label="genome copy" />
+      <node id="GC" label="GC" />
+      <node id="recent variants" label="recent variants" />
+      <node id="Severe Acute Respiratory Syndrome CoronaVirus 2" label="Severe Acute Respiratory Syndrome CoronaVirus 2" />
+      <node id="ACE2" label="ACE2" />
+      <node id="ongoing pandemic" label="ongoing pandemic" />
+      <node id="MIS C" label="MIS C" />
+    </nodes>
+    <edges>
+      <edge source="COVID pandemic" target="SARS CoV 2" id="0" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="NRC 03 nhCoV" id="1" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="S protein" id="2" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="severe acute respiratory syndrome coronavirus 2" id="3" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="GC" id="4" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="ACE2" id="5" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="SARS CoV 2" id="6" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="XBB" target="SARS CoV 2" id="7" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Autochthonous leishmaniasis in Thailand" target="SARS CoV 2" id="8" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="host response" target="SARS CoV 2" id="9" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="CNS" target="SARS CoV 2" id="10" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="symptom onset" target="SARS CoV 2" id="11" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="spread rapidly across the globe" target="SARS CoV 2" id="12" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="variants of concern" target="SARS CoV 2" id="13" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="SARS CoV 2" id="14" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="cerebrum" target="SARS CoV 2" id="15" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="severe acute respiratory syndrome coronavirus 2" target="SARS CoV 2" id="16" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="mAb resistant virus variants" target="SARS CoV 2" id="17" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Severe Acute Respiratory Syndrome coronavirus 2" target="SARS CoV 2" id="18" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="post SARS CoV 2 infection" target="SARS CoV 2" id="19" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="eCOVIDs" target="SARS CoV 2" id="20" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="human infections with eCOVIDs" target="SARS CoV 2" id="21" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Adolescent Idiopathic Scoliosis" target="SARS CoV 2" id="22" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" target="SARS CoV 2" id="23" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="genome copy" target="SARS CoV 2" id="24" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="GC" target="SARS CoV 2" id="25" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="recent variants" target="SARS CoV 2" id="26" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Severe Acute Respiratory Syndrome CoronaVirus 2" target="SARS CoV 2" id="27" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="ongoing pandemic" target="SARS CoV 2" id="28" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="MIS C" target="SARS CoV 2" id="29" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

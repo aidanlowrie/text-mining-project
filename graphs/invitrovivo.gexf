@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-01">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="in vitro" label="in vitro" />
+      <node id="in vivo" label="in vivo" />
+      <node id="mechanism of action" label="mechanism of action" />
+      <node id="in cell assays" label="in cell assays" />
+      <node id="ex vivo" label="ex vivo" />
+      <node id="bidimensional culture" label="bidimensional culture" />
+      <node id="translational" label="translational" />
+      <node id="cultured in vitro" label="cultured in vitro" />
+      <node id="chromatin isolation" label="chromatin isolation" />
+      <node id="tumor xenograft model" label="tumor xenograft model" />
+      <node id="In vitro" label="In vitro" />
+      <node id="in silico" label="in silico" />
+      <node id="chemical screening" label="chemical screening" />
+      <node id="passaging" label="passaging" />
+      <node id="orthotopic 4T1 breast cancer model" label="orthotopic 4T1 breast cancer model" />
+      <node id="artificial reproduction" label="artificial reproduction" />
+      <node id="in cell stability" label="in cell stability" />
+      <node id="culture conditions" label="culture conditions" />
+      <node id="SDC PDX mice" label="SDC PDX mice" />
+      <node id="phase specific phosphorylation" label="phase specific phosphorylation" />
+      <node id="functional analyses" label="functional analyses" />
+      <node id="non specific biodistribution" label="non specific biodistribution" />
+      <node id="accelerated blood clearance" label="accelerated blood clearance" />
+      <node id="In vivo" label="In vivo" />
+      <node id="co culture" label="co culture" />
+    </nodes>
+    <edges>
+      <edge source="in vitro" target="in vivo" id="0" label="opposite of">
+        <attvalues>
+          <attvalue for="0" value="opposite of" />
+        </attvalues>
+      </edge>
+      <edge source="in vitro" target="in cell assays" id="1" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vitro" target="chemical screening" id="2" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="in vitro" target="in cell stability" id="3" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vitro" target="in silico" id="4" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vitro" target="In vivo" id="5" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="in vitro" id="6" label="opposite of">
+        <attvalues>
+          <attvalue for="0" value="opposite of" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="mechanism of action" id="7" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="in vivo" id="8" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="ex vivo" id="9" label="opposite of">
+        <attvalues>
+          <attvalue for="0" value="opposite of" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="In vitro" id="10" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in vivo" target="functional analyses" id="11" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="in cell assays" target="in vitro" id="12" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="ex vivo" target="in vitro" id="13" label="opposite of">
+        <attvalues>
+          <attvalue for="0" value="opposite of" />
+        </attvalues>
+      </edge>
+      <edge source="ex vivo" target="in vivo" id="14" label="opposite of">
+        <attvalues>
+          <attvalue for="0" value="opposite of" />
+        </attvalues>
+      </edge>
+      <edge source="bidimensional culture" target="in vitro" id="15" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="translational" target="in vivo" id="16" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="cultured in vitro" target="in vitro" id="17" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="chromatin isolation" target="in vitro" id="18" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="tumor xenograft model" target="in vivo" id="19" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="In vitro" target="in vivo" id="20" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="in silico" target="in vitro" id="21" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="passaging" target="in vitro" id="22" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="orthotopic 4T1 breast cancer model" target="in vivo" id="23" label="instance of">
+        <attvalues>
+          <attvalue for="0" value="instance of" />
+        </attvalues>
+      </edge>
+      <edge source="artificial reproduction" target="in vitro" id="24" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="in cell stability" target="in vitro" id="25" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="culture conditions" target="in vitro" id="26" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="SDC PDX mice" target="in vivo" id="27" label="instance of">
+        <attvalues>
+          <attvalue for="0" value="instance of" />
+        </attvalues>
+      </edge>
+      <edge source="phase specific phosphorylation" target="in vivo" id="28" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="non specific biodistribution" target="in vivo" id="29" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="accelerated blood clearance" target="in vivo" id="30" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="In vivo" target="in vitro" id="31" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="co culture" target="in vivo" id="32" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

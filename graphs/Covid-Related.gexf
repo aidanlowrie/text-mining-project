@@ -1,0 +1,870 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-01">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="COVID pandemic" label="COVID pandemic" />
+      <node id="SARS CoV 2" label="SARS CoV 2" />
+      <node id="COVID 19" label="COVID 19" />
+      <node id="Vaccine preventable diseases" label="Vaccine preventable diseases" />
+      <node id="human organoid" label="human organoid" />
+      <node id="COVID 19 pandemic" label="COVID 19 pandemic" />
+      <node id="Alpha" label="Alpha" />
+      <node id="Delta" label="Delta" />
+      <node id="Omicron" label="Omicron" />
+      <node id="cardenolide toxins" label="cardenolide toxins" />
+      <node id="coronavirus disease 2019 (COVID 19) pandemic" label="coronavirus disease 2019 (COVID 19) pandemic" />
+      <node id="SARS Cov 2" label="SARS Cov 2" />
+      <node id="@@@@@@@@SARS CoV 2" label="@@@@@@@@SARS CoV 2" />
+      <node id="protein antagonist" label="protein antagonist" />
+      <node id="NRC 03 nhCoV" label="NRC 03 nhCoV" />
+      <node id="2 pyridone PIM1 inhibitor" label="2 pyridone PIM1 inhibitor" />
+      <node id="XBB" label="XBB" />
+      <node id="Autochthonous leishmaniasis in Thailand" label="Autochthonous leishmaniasis in Thailand" />
+      <node id="Personal Protective Equipment" label="Personal Protective Equipment" />
+      <node id="host response" label="host response" />
+      <node id="MEG3" label="MEG3" />
+      <node id="S1 protein" label="S1 protein" />
+      <node id="FAIR (Findable, Accessible, Interoperable, and Reusable) data more than any other scientific challenge to date" label="FAIR (Findable, Accessible, Interoperable, and Reusable) data more than any other scientific challenge to date" />
+      <node id="Co 19 EPs" label="Co 19 EPs" />
+      <node id="COVID 19 pathogenesis" label="COVID 19 pathogenesis" />
+      <node id="inflammatory supernatant" label="inflammatory supernatant" />
+      <node id="S protein" label="S protein" />
+      <node id="CNS" label="CNS" />
+      <node id="long COVID" label="long COVID" />
+      <node id="Bioinformatics" label="Bioinformatics" />
+      <node id="social sciences" label="social sciences" />
+      <node id="PA conflict potentials" label="PA conflict potentials" />
+      <node id="host immune response" label="host immune response" />
+      <node id="ARDS" label="ARDS" />
+      <node id="Respiratory failure" label="Respiratory failure" />
+      <node id="United States" label="United States" />
+      <node id="New York City" label="New York City" />
+      <node id="symptom onset" label="symptom onset" />
+      <node id="asymptomatic" label="asymptomatic" />
+      <node id="PWH" label="PWH" />
+      <node id="global health problems" label="global health problems" />
+      <node id="spread rapidly across the globe" label="spread rapidly across the globe" />
+      <node id="variants of concern" label="variants of concern" />
+      <node id="CD" label="CD" />
+      <node id="chronic lower respiratory disease" label="chronic lower respiratory disease" />
+      <node id="high resolution melting" label="high resolution melting" />
+      <node id="G142D" label="G142D" />
+      <node id="R158G" label="R158G" />
+      <node id="Y505H" label="Y505H" />
+      <node id="V213G" label="V213G" />
+      <node id="G446S" label="G446S" />
+      <node id="S413R" label="S413R" />
+      <node id="F486V" label="F486V" />
+      <node id="multiplex HRM assay" label="multiplex HRM assay" />
+      <node id="cerebrum" label="cerebrum" />
+      <node id="post acute sequelae" label="post acute sequelae" />
+      <node id="COVID 19 negative controls" label="COVID 19 negative controls" />
+      <node id="HFABP" label="HFABP" />
+      <node id="ETP" label="ETP" />
+      <node id="progressive infection" label="progressive infection" />
+      <node id="severe acute respiratory syndrome coronavirus 2" label="severe acute respiratory syndrome coronavirus 2" />
+      <node id="mAb resistant virus variants" label="mAb resistant virus variants" />
+      <node id="Severe Acute Respiratory Syndrome coronavirus 2" label="Severe Acute Respiratory Syndrome coronavirus 2" />
+      <node id="Spontaneous VVEAus R reversion" label="Spontaneous VVEAus R reversion" />
+      <node id="post SARS CoV 2 infection" label="post SARS CoV 2 infection" />
+      <node id="eCOVIDs" label="eCOVIDs" />
+      <node id="human infections with eCOVIDs" label="human infections with eCOVIDs" />
+      <node id="post COVID 19 athletes" label="post COVID 19 athletes" />
+      <node id="Physical performance post COVID 19" label="Physical performance post COVID 19" />
+      <node id="Adolescent Idiopathic Scoliosis" label="Adolescent Idiopathic Scoliosis" />
+      <node id="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" label="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" />
+      <node id="COVID 19 patients" label="COVID 19 patients" />
+      <node id="Severe acute respiratory syndrome coronavirus 2" label="Severe acute respiratory syndrome coronavirus 2" />
+      <node id="Omicron strain" label="Omicron strain" />
+      <node id="Nucleocapsid protein" label="Nucleocapsid protein" />
+      <node id="China" label="China" />
+      <node id="mRNA vaccine" label="mRNA vaccine" />
+      <node id="genome copy" label="genome copy" />
+      <node id="GC" label="GC" />
+      <node id="inflammation of the lungs" label="inflammation of the lungs" />
+      <node id="cardiovascular function" label="cardiovascular function" />
+      <node id="physical activity intervention" label="physical activity intervention" />
+      <node id="recent variants" label="recent variants" />
+      <node id="COVID 19 mortality rates" label="COVID 19 mortality rates" />
+      <node id="biodegradable mask" label="biodegradable mask" />
+      <node id="booster vaccinations" label="booster vaccinations" />
+      <node id="Hair loss attracted public interest" label="Hair loss attracted public interest" />
+      <node id="Severe Acute Respiratory Syndrome CoronaVirus 2" label="Severe Acute Respiratory Syndrome CoronaVirus 2" />
+      <node id="ACE2" label="ACE2" />
+      <node id="disseminated intravascular coagulation" label="disseminated intravascular coagulation" />
+      <node id="pharmacological modulation" label="pharmacological modulation" />
+      <node id="ongoing pandemic" label="ongoing pandemic" />
+      <node id="Coronavirus disease" label="Coronavirus disease" />
+      <node id="Remdesivir" label="Remdesivir" />
+      <node id="MIS C" label="MIS C" />
+    </nodes>
+    <edges>
+      <edge source="COVID pandemic" target="SARS CoV 2" id="0" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="COVID pandemic" id="1" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Alpha" id="2" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Delta" id="3" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Omicron" id="4" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="cardenolide toxins" id="5" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="protein antagonist" id="6" label="drug used for treatment">
+        <attvalues>
+          <attvalue for="0" value="drug used for treatment" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="COVID 19" id="7" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="NRC 03 nhCoV" id="8" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="2 pyridone PIM1 inhibitor" id="9" label="drug used for treatment">
+        <attvalues>
+          <attvalue for="0" value="drug used for treatment" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="XBB" id="10" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Autochthonous leishmaniasis in Thailand" id="11" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="host response" id="12" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="S1 protein" id="13" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="S protein" id="14" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="CNS" id="15" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="New York City" id="16" label="location">
+        <attvalues>
+          <attvalue for="0" value="location" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="symptom onset" id="17" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="spread rapidly across the globe" id="18" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="variants of concern" id="19" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="COVID 19 pandemic" id="20" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="cerebrum" id="21" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="severe acute respiratory syndrome coronavirus 2" id="22" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="mAb resistant virus variants" id="23" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Severe Acute Respiratory Syndrome coronavirus 2" id="24" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="post SARS CoV 2 infection" id="25" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="eCOVIDs" id="26" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="human infections with eCOVIDs" id="27" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Adolescent Idiopathic Scoliosis" id="28" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" id="29" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Nucleocapsid protein" id="30" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="GC" id="31" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="recent variants" id="32" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="Severe Acute Respiratory Syndrome CoronaVirus 2" id="33" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="ACE2" id="34" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="ongoing pandemic" id="35" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="SARS CoV 2" target="MIS C" id="36" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="Vaccine preventable diseases" id="37" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="human organoid" id="38" label="has parts of the class">
+        <attvalues>
+          <attvalue for="0" value="has parts of the class" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="coronavirus disease 2019 (COVID 19) pandemic" id="39" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="SARS Cov 2" id="40" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="SARS CoV 2" id="41" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="COVID 19" id="42" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="MEG3" id="43" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="Co 19 EPs" id="44" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="COVID 19 pathogenesis" id="45" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="inflammatory supernatant" id="46" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="long COVID" id="47" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="PA conflict potentials" id="48" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="host immune response" id="49" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="ARDS" id="50" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="Respiratory failure" id="51" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="asymptomatic" id="52" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="CD" id="53" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="chronic lower respiratory disease" id="54" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="post acute sequelae" id="55" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="HFABP" id="56" label="drug used for treatment">
+        <attvalues>
+          <attvalue for="0" value="drug used for treatment" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="ETP" id="57" label="drug used for treatment">
+        <attvalues>
+          <attvalue for="0" value="drug used for treatment" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="progressive infection" id="58" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="post COVID 19 athletes" id="59" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="COVID 19 patients" id="60" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="China" id="61" label="country">
+        <attvalues>
+          <attvalue for="0" value="country" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="inflammation of the lungs" id="62" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="cardiovascular function" id="63" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="physical activity intervention" id="64" label="instance of">
+        <attvalues>
+          <attvalue for="0" value="instance of" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="COVID 19 mortality rates" id="65" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="booster vaccinations" id="66" label="instance of">
+        <attvalues>
+          <attvalue for="0" value="instance of" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="Coronavirus disease" id="67" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="Remdesivir" id="68" label="drug used for treatment">
+        <attvalues>
+          <attvalue for="0" value="drug used for treatment" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19" target="MIS C" id="69" label="followed by">
+        <attvalues>
+          <attvalue for="0" value="followed by" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="COVID 19" id="70" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="@@@@@@@@SARS CoV 2" id="71" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="FAIR (Findable, Accessible, Interoperable, and Reusable) data more than any other scientific challenge to date" id="72" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="Bioinformatics" id="73" label="studied by">
+        <attvalues>
+          <attvalue for="0" value="studied by" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="social sciences" id="74" label="studied by">
+        <attvalues>
+          <attvalue for="0" value="studied by" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="United States" id="75" label="country">
+        <attvalues>
+          <attvalue for="0" value="country" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="SARS CoV 2" id="76" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pandemic" target="Severe acute respiratory syndrome coronavirus 2" id="77" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Alpha" target="SARS CoV 2" id="78" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="Delta" target="SARS CoV 2" id="79" label="parent taxon">
+        <attvalues>
+          <attvalue for="0" value="parent taxon" />
+        </attvalues>
+      </edge>
+      <edge source="Omicron" target="SARS CoV 2" id="80" label="parent taxon">
+        <attvalues>
+          <attvalue for="0" value="parent taxon" />
+        </attvalues>
+      </edge>
+      <edge source="SARS Cov 2" target="COVID 19" id="81" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="@@@@@@@@SARS CoV 2" target="COVID 19 pandemic" id="82" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="protein antagonist" target="SARS CoV 2" id="83" label="medical condition treated">
+        <attvalues>
+          <attvalue for="0" value="medical condition treated" />
+        </attvalues>
+      </edge>
+      <edge source="NRC 03 nhCoV" target="SARS CoV 2" id="84" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="2 pyridone PIM1 inhibitor" target="SARS CoV 2" id="85" label="medical condition treated">
+        <attvalues>
+          <attvalue for="0" value="medical condition treated" />
+        </attvalues>
+      </edge>
+      <edge source="XBB" target="SARS CoV 2" id="86" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Autochthonous leishmaniasis in Thailand" target="SARS CoV 2" id="87" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Personal Protective Equipment" target="COVID 19 pandemic" id="88" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="host response" target="SARS CoV 2" id="89" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="S1 protein" target="SARS CoV 2" id="90" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="FAIR (Findable, Accessible, Interoperable, and Reusable) data more than any other scientific challenge to date" target="COVID 19 pandemic" id="91" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Co 19 EPs" target="COVID 19" id="92" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 pathogenesis" target="COVID 19" id="93" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="S protein" target="SARS CoV 2" id="94" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="CNS" target="SARS CoV 2" id="95" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="long COVID" target="COVID 19" id="96" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="ARDS" target="COVID 19" id="97" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Respiratory failure" target="COVID 19" id="98" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="symptom onset" target="SARS CoV 2" id="99" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="asymptomatic" target="COVID 19" id="100" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="PWH" target="COVID 19" id="101" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="global health problems" target="COVID 19" id="102" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="spread rapidly across the globe" target="SARS CoV 2" id="103" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="variants of concern" target="SARS CoV 2" id="104" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="CD" target="COVID 19" id="105" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="high resolution melting" target="SARS CoV 2" id="106" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="G142D" target="SARS CoV 2" id="107" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="R158G" target="SARS CoV 2" id="108" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="Y505H" target="SARS CoV 2" id="109" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="V213G" target="SARS CoV 2" id="110" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="G446S" target="SARS CoV 2" id="111" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="S413R" target="SARS CoV 2" id="112" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="F486V" target="SARS CoV 2" id="113" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="multiplex HRM assay" target="SARS CoV 2" id="114" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="cerebrum" target="SARS CoV 2" id="115" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="post acute sequelae" target="COVID 19" id="116" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 negative controls" target="COVID 19" id="117" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="HFABP" target="COVID 19" id="118" label="medical condition treated">
+        <attvalues>
+          <attvalue for="0" value="medical condition treated" />
+        </attvalues>
+      </edge>
+      <edge source="ETP" target="COVID 19" id="119" label="medical condition treated">
+        <attvalues>
+          <attvalue for="0" value="medical condition treated" />
+        </attvalues>
+      </edge>
+      <edge source="progressive infection" target="COVID 19" id="120" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="severe acute respiratory syndrome coronavirus 2" target="SARS CoV 2" id="121" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="mAb resistant virus variants" target="SARS CoV 2" id="122" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Severe Acute Respiratory Syndrome coronavirus 2" target="SARS CoV 2" id="123" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Spontaneous VVEAus R reversion" target="COVID 19 pandemic" id="124" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="post SARS CoV 2 infection" target="SARS CoV 2" id="125" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="eCOVIDs" target="SARS CoV 2" id="126" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="human infections with eCOVIDs" target="SARS CoV 2" id="127" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="post COVID 19 athletes" target="COVID 19" id="128" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="Physical performance post COVID 19" target="COVID 19" id="129" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="Adolescent Idiopathic Scoliosis" target="SARS CoV 2" id="130" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="severe acute respiratory syndrome coronavirus 2 (SARS CoV 2) pandemic" target="SARS CoV 2" id="131" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 patients" target="COVID 19" id="132" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Severe acute respiratory syndrome coronavirus 2" target="COVID 19 pandemic" id="133" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="Omicron strain" target="SARS CoV 2" id="134" label="subclass of">
+        <attvalues>
+          <attvalue for="0" value="subclass of" />
+        </attvalues>
+      </edge>
+      <edge source="Nucleocapsid protein" target="SARS CoV 2" id="135" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+      <edge source="mRNA vaccine" target="COVID 19 pandemic" id="136" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="genome copy" target="SARS CoV 2" id="137" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="GC" target="SARS CoV 2" id="138" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="recent variants" target="SARS CoV 2" id="139" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="COVID 19 mortality rates" target="COVID 19" id="140" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="biodegradable mask" target="COVID 19 pandemic" id="141" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="Hair loss attracted public interest" target="COVID 19 pandemic" id="142" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="Severe Acute Respiratory Syndrome CoronaVirus 2" target="SARS CoV 2" id="143" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="ACE2" target="SARS CoV 2" id="144" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="disseminated intravascular coagulation" target="COVID 19" id="145" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="pharmacological modulation" target="COVID 19" id="146" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="ongoing pandemic" target="SARS CoV 2" id="147" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Coronavirus disease" target="COVID 19" id="148" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="Remdesivir" target="COVID 19" id="149" label="medical condition treated">
+        <attvalues>
+          <attvalue for="0" value="medical condition treated" />
+        </attvalues>
+      </edge>
+      <edge source="MIS C" target="COVID 19" id="150" label="follows">
+        <attvalues>
+          <attvalue for="0" value="follows" />
+        </attvalues>
+      </edge>
+      <edge source="MIS C" target="SARS CoV 2" id="151" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

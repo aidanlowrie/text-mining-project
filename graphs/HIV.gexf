@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-01">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="relation" type="string" />
+    </attributes>
+    <nodes>
+      <node id="HIV" label="HIV" />
+      <node id="HIV uninfected" label="HIV uninfected" />
+      <node id="multivariate analysis" label="multivariate analysis" />
+      <node id="Enteric infection" label="Enteric infection" />
+      <node id="ADCC" label="ADCC" />
+      <node id="VCT" label="VCT" />
+      <node id="molecular assays" label="molecular assays" />
+      <node id="1" label="1" />
+      <node id="AIDS" label="AIDS" />
+      <node id="PWH" label="PWH" />
+      <node id="Uganda" label="Uganda" />
+      <node id="severe acute respiratory syndrome coronavirus 2" label="severe acute respiratory syndrome coronavirus 2" />
+      <node id="HIV envelope" label="HIV envelope" />
+    </nodes>
+    <edges>
+      <edge source="HIV" target="HIV uninfected" id="0" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="multivariate analysis" id="1" label="studied by">
+        <attvalues>
+          <attvalue for="0" value="studied by" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="Enteric infection" id="2" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="ADCC" id="3" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="1" id="4" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="AIDS" id="5" label="has effect">
+        <attvalues>
+          <attvalue for="0" value="has effect" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="Uganda" id="6" label="country">
+        <attvalues>
+          <attvalue for="0" value="country" />
+        </attvalues>
+      </edge>
+      <edge source="HIV" target="HIV envelope" id="7" label="has part">
+        <attvalues>
+          <attvalue for="0" value="has part" />
+        </attvalues>
+      </edge>
+      <edge source="HIV uninfected" target="HIV" id="8" label="different from">
+        <attvalues>
+          <attvalue for="0" value="different from" />
+        </attvalues>
+      </edge>
+      <edge source="multivariate analysis" target="HIV" id="9" label="studies">
+        <attvalues>
+          <attvalue for="0" value="studies" />
+        </attvalues>
+      </edge>
+      <edge source="ADCC" target="HIV" id="10" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="VCT" target="HIV" id="11" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="molecular assays" target="HIV" id="12" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="AIDS" target="HIV" id="13" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="PWH" target="HIV" id="14" label="facet of">
+        <attvalues>
+          <attvalue for="0" value="facet of" />
+        </attvalues>
+      </edge>
+      <edge source="severe acute respiratory syndrome coronavirus 2" target="HIV" id="15" label="has cause">
+        <attvalues>
+          <attvalue for="0" value="has cause" />
+        </attvalues>
+      </edge>
+      <edge source="HIV envelope" target="HIV" id="16" label="part of">
+        <attvalues>
+          <attvalue for="0" value="part of" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
