@@ -1,31 +1,18 @@
-# text-mining-project
-A repository for our text mining group project (Elliot, Boray, Aidan). 
+# README
 
-## Outline
-The aim of this project is to create a network that provides a visualisation of the association between biological terms in a corpus of PubMed articles. The steps will be as follows:
-1. Preprocess the Data.
-- In this step, we will use Biopython and E-Utilities to search for and download the relevant PubMed article abstracts into a text file.
-- With the data downloaded, we will preprocess the data to remove stopwords, punctuation and other information deemed irrelevant, using NLTK and SpaCy.
-2. Key-Word Extraction.
-- We will train a neural network BERT model to extract key words from the preprocessed corpus.
-3. Compute Term Associations.
-- This step involves finding co-occurrence data of the extracted key words throughout the corpus.
-- Then, we will calculate the SPPMI of this data.
-4. Creating and Visualising a Network.
-- Firstly, we will create an adjacency matrix. 
-- Then we will pass this matrix into a NetworkX object, and save this data into a file.
-- We will use techniques to analyse the network. 
-5. Knowledge Graph? (Need to look into this still). 
-- https://www.kaggle.com/code/pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk#BERT:-Bidirectional-Encoder-Representations-from-Transformers
-- (I have linked to this because I think it might be a useful resource for us to look at.)
+## Exploring the Potential of Transformer Models as a Novel Approach to Biological Knowledge Graph Construction
 
-Keyword extraction keybert --> plug in biobert to keybert.
---> PubMedBert?
-6. Extracting Relations
-- The file relation.py has methods to extract relations(that file will be updated soon)
-- The main thing it does is iterating over a list of sentences and finding the subject object and the verb and storing it in a pandas dataframe.
-- In the end, we want to have a visualised data that shows the important connections that our corpus contains.
-- Depending on our end product, we might be able to find important connections in genetics with some observation using the clustered data.
-- Word similarities, relations, and keywords in the corpus will play a big role in this task.
-- The relations between similar words and dissimilar words provide different data. And, they should be treated differently.
-- Although up to now we've limited ourselves with genetics articles, the methods we provide are generic.
+## Abstract
+Biological data is littered with complex terms and relationships. One way to represent these relationships is through Knowledge Graphs. Over the past half decade, transformer models have revolutionised many NLP tasks. BERT models have been increasingly employed in other academic spheres for KG creation. Throughout this project, we explored the potential for transformer models within the field of biology, evaluating their ability to generate high quality triples through qualitatively (through visualisation) and quantitatively (through training predictive models).
+
+## Research questions
+A list of research questions you would like to address during the project. 
+
+## Dataset
+List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+## A tentative list of milestones for the project
+Add here a sketch of your planning for the coming weeks. Please mention who does what.
+
+## Documentation
+This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
