@@ -10,6 +10,4 @@ Our research question is as follows: To what extent can transformer models be ut
 We use a curated dataset made from programmatically downloading PubMed article abstracts. Further details are contained in ```project_notebook.ipynb```.
 
 ## Documentation
-This repository contains two notebooks, one focused on triplet extraction and NLP-based techniques, and the other on visualisation methods used throughout the project. It also contains a data folder, in which all relevant files created over the course of the project have been stored. This includes CSV files containing triplets at each step of the process, the corpus itself, and predictor model evaluation reports. 
-
-As well as this, it contains a series of generated knowledge graphs, processed in [Gephi](https://gephi.org) and exported as PDFs for readers to explore.
+Aside from the project report, this repository contains two notebooks, one focused on triplet extraction and NLP-based techniques, and the other on visualisation methods used throughout the project. It also contains a data folder, in which all relevant files created over the course of the project have been stored. This includes CSV files containing triplets at each step of the process, the corpus itself, and predictor model evaluation reports. As well as this, the data folder contains a series of generated knowledge graphs, processed in [Gephi](https://gephi.org) and exported as PDFs for readers to explore. These are contained in the graphs folder.
